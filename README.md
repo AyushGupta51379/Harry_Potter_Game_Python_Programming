@@ -20,4 +20,6 @@ Harry Potter vs The Army of Voldemort Game - created using turtle graphics in Py
 # Game won
 <img src= "https://github.com/AyushGupta51379/Harry_Potter_Game_Python_Programming/blob/master/Gameplay__Images/You_win_all_enemies_killed.png?raw=true" width="55%" height="55%" />
 
+# Statements
 
+Note: All work shown in this repository is for informational use only. Regarding the images or logos, and music, we are not associated with any of those companies. This repository only aims to provide general information for educational purposes via those materials.
