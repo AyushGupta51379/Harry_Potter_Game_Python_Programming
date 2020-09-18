@@ -2,7 +2,7 @@
 - You can download Python 3.x versions from this official website: https://www.python.org/downloads/
 
 # What to download?
-- Python programming solftware: https://www.python.org/downloads/
+- Python programming software: https://www.python.org/downloads/
 - Download the folder: "Game_Final". It has everything you basiclly need (other than python).
 
 # How to Run?
