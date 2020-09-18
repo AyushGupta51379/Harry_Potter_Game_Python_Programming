@@ -1,9 +1,32 @@
-# Harry_Potter_Game_Python_Programming
-Harry Potter vs The Army of Voldemort Game - created using turtle graphics in Python, music added using pygame
+# How to get Python?
+- You can download Python 3.x versions from this official website: https://www.python.org/downloads/
 
+# What to download?
+- Download the entire github repository. Or, download the folders: "Gameplay__Images" and "Game_Final".
 
-# Gameplay
-![Gameplay](https://github.com/AyushGupta51379/Harry_Potter_Game_Python_Programming/blob/master/Gameplay__Images/Magical_Harry_Game.gif?raw=true)
+# How to Run?
+- Install Python 3.
+- Install pygame library.
+- Open the "Game_Project_Final.py" file (from "Game_Final" folder) in IDLE Python, then run.
+- A new window will open with the game.
+- Once you are done with the game, or the game is over, please close that window.
+- If you would like to restart game, then run the "Game_Project_Final.py" file again using IDLE Python.
+
+# Theme - Magic - Harry Potter and the Army of Voldemort
+- You are Harry Potter and are fighting against the Army of Voldemort.
+- Your objective is to destroy Voldemort's army using the power of your magic wand.
+
+# How to play the game?
+- First select the number of enemies you want, by changing using the left and right arrows.
+- Press the start button when you are ready.
+- Move using left and right arrows keys on keyboard.
+- Fire Magical stars using space key on keyboard.
+
+# How to win?
+- Kill all the enemies. You get points each enemy you kill.
+- Note that you do not need to kill the bonus enemy, which is Voldemort.
+- Bonus enemy is Voldemort moving across the screen quickly, you do not need to kill him to win, you can if you like. 
+- Every time you kill the bonus enemy, Voldemort, you get bonus points.
 
 # Statement
 
