@@ -2,7 +2,8 @@
 - You can download Python 3.x versions from this official website: https://www.python.org/downloads/
 
 # What to download?
-- Download the entire github repository. Or, download the folders: "Gameplay__Images" and "Game_Final".
+- Python programming solftware: https://www.python.org/downloads/
+- Download the folder: "Game_Final". It has everything you basiclly need (other than python).
 
 # How to Run?
 - Install Python 3.
