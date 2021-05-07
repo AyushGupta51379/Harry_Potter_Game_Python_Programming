@@ -10,7 +10,7 @@ import turtle
 # Pygame for music
 
 import pygame
-file = 'HPT_Song.mp3'
+file = 'HPT_No_Copyright_Music.mp3'
 pygame.init()
 pygame.mixer.init()
 pygame.mixer.music.load(file)
